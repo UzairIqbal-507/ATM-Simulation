@@ -38,7 +38,7 @@ ATM-Simulation/
 
 1. Clone this repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/UzairIqbal-507/ATM-Simulation.git
    ```
 2. Open the project folder.
 3. Run the application:
